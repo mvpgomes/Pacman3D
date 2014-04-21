@@ -1,0 +1,17 @@
+﻿Build started 5/25/2012 2:33:50 PM.
+     1>Project "C:\Users\Guilherme\Desktop\Pacman3D\PakmanV1\PakmanV1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\PakmanV2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         PakmanV1.vcxproj -> C:\Users\Guilherme\Desktop\Pacman3D\Release\PakmanV2.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\PakmanV2.unsuccessfulbuild".
+         Touching "Release\PakmanV2.lastbuildstate".
+     1>Done Building Project "C:\Users\Guilherme\Desktop\Pacman3D\PakmanV1\PakmanV1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
